@@ -1,0 +1,6 @@
+[submodule "softdevice"]
+	path = softdevice
+	url = git@git.interoberlin.de:/home/git/repositories/matthias/nRF51-SoftDevice.git
+[submodule "sdk"]
+	path = sdk
+	url = git@git.interoberlin.de:/home/git/repositories/matthias/nRF51-SDK-Nordic.git
