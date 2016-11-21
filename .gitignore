@@ -1,9 +1,11 @@
+# Temporary files
 *~
 .*.swp
 .lock.*
+*.zip
 
+# Binaries
 main
-
 *.o
 *.out
 *.elf
@@ -11,6 +13,8 @@ main
 *.hex
 *.map
 
+# Eclipse
 .cproject
 .project
 .settings/
+
